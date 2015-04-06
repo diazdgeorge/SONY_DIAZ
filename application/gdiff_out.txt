@@ -1,0 +1,9 @@
+diff --git a/README.md b/README.md
+index 5739571..179cf1e 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,4 @@
+ # SONY_DIAZ
+ DIAZ_LOCAL
++
++my folder is /DIAZ_SONY
